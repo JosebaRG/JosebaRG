@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseba R.G.</h1>
 
 <h3 align="justify">
-Engineer with a Master's degree in Automation specializing in Industrial Electronics. Based in the great city of Bilbao, in the Basque Country. I have transitioned from Senior Industrialization Engineer to Embedded Firmware Developer. Currently I am working on embedded Linux and C. And I have mainly worked on companies and projects related to the power grid making Smart Grid Solutions.
+Engineer with a Master's degree in Automation specializing in Industrial Electronics. Based in the great city of Bilbao, in the Basque Country. I have transitioned from Senior Industrialization Engineer to Embedded Firmware Developer. Currently I am working on embedded Linux, C and FreeRTOS. And I have primarily dedicated my expertise to companies and projects associated with the power grid, mostly on low and medium voltage systems, making Smart Grid Solutions.
 </h3>
 
 <div style="margin-top:40px;"></div>
