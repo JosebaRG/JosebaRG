@@ -52,6 +52,9 @@ Engineer with a Master's degree in Automation specializing in Industrial Electro
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
+    <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="freertos" width="100" height="40"/>
+    </a>
     <a href="https://neovim.io/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="NeoVim" width="40" height="40"/>
     </a>
@@ -74,5 +77,6 @@ Engineer with a Master's degree in Automation specializing in Industrial Electro
         <a href="https://new.siemens.com/mx/es/productos/automatizacion/industry-software/automation-software/tia-portal/software.html" target="_blank" rel="noreferrer">
         <img src="https://i0.wp.com/theautomationblog.com/wp-content/uploads/2021/02/TIA-Portal-Logo.jpg?ssl=1" alt="TIA Portal" width="40" height="40"/>
     </a>
+    
 </p>
 
